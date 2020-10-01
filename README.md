@@ -2,7 +2,7 @@
 
 ### This script will install the following packages on your system:
 
-- Docker Engine - Community version 19.03.3
+- Docker Engine -> Community version 19.03.3
 
 - Nvidia Container Toolkit
 
